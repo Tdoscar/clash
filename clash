@@ -1,9 +1,3 @@
-port: 7890
-socks-port: 7891
-allow-lan: true
-mode: Rule
-log-level: info
-external-controller: 0.0.0.0:9090
 proxies:
   - {name: '加拿大丨专属节点丨1_1', server: sz.91sir.cn, port: 33333, type: vmess, uuid: 21c34329-3da6-3d37-965d-a1d3662f5237, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: t.me/vpnhat}}
   - {name: '台湾丨公益节点丨1 _2', server: 34.81.88.200, port: 33344, type: vmess, uuid: 21c34329-3da6-3d37-965d-a1d3662f5237, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /v2ray}
