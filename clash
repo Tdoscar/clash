@@ -1,3 +1,4 @@
+proxies:
   - {name: '加拿大丨专属节点丨1_1', server: sz.91sir.cn, port: 33333, type: vmess, uuid: 21c34329-3da6-3d37-965d-a1d3662f5237, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: t.me/vpnhat}}
   - {name: '台湾丨公益节点丨1 _2', server: 34.81.88.200, port: 33344, type: vmess, uuid: 21c34329-3da6-3d37-965d-a1d3662f5237, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /v2ray}
   - {name: '新加坡丨高速中转丨1_3', server: zz.keaitz.xyz, port: 36611, type: vmess, uuid: 21c34329-3da6-3d37-965d-a1d3662f5237, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: t.me/vpnhat}}
@@ -21,4 +22,3 @@
   - {name: '香港丨流媒体解锁丨1_21', server: zz.keaitz.xyz, port: 36615, type: vmess, uuid: 21c34329-3da6-3d37-965d-a1d3662f5237, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: t.me/vpnhat}}
   - {name: '香港丨流媒体解锁丨2_22', server: zz.keaitz.xyz, port: 36616, type: vmess, uuid: 21c34329-3da6-3d37-965d-a1d3662f5237, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: t.me/vpnhat}}
   - {name: '香港丨流媒体解锁丨3_23', server: zz.keaitz.xyz, port: 36617, type: vmess, uuid: 21c34329-3da6-3d37-965d-a1d3662f5237, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: t.me/vpnhat}}
-
