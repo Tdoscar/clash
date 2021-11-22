@@ -8295,7 +8295,6 @@ rules:
   - DOMAIN-SUFFIX,cloudmobi.net,🛑 全球拦截
   - DOMAIN-SUFFIX,cnzz.com,🛑 全球拦截
   - DOMAIN-SUFFIX,ctrmi.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,flurry.com,🛑 全球拦截
   - DOMAIN-SUFFIX,go2cloud.org,🛑 全球拦截
   - DOMAIN-SUFFIX,growingio.com,🛑 全球拦截
   - DOMAIN-SUFFIX,haloapps.com,🛑 全球拦截
